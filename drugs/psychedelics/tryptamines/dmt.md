@@ -16,13 +16,31 @@
 - [Meditate for a few minutes. Let yourself know you will be ok, because you will. It will not physically harm you. Whatever you get out of it, don’t take it too seriously, but don’t completely ignore it either. Understand that it is only a few minutes and you will come back. Most likely when you do come back, you’ll probably want to go right back in.](https://www.reddit.com/r/DMT/comments/9fmxf6/i_cannot_physically_make_myself_consume_dmt/)
   - Don’t have any expectations. Take your hit, lay back, smile, and submit. Tell it to take you, and you’ll probably have a good experience.
   - Or don’t do it at all. If your anxiety outweighs your curiosity, then don’t do it. Hang onto it and maybe a day comes when you feel ready. It’s not something you have to do.
+- Yocan evolve with ceramic donut coils works great. Load dose into the bucket, pulse button to melt. As you hold down the button it will start to vaporize. Take one long slow drag and hold it in.
+  - You do not need to worry about breathing, your body will automatically regulate that for you in most cases. Unless you have a medical condition. So just don't even worry about it, just hold it as long as you possibly can cause your body will force you to breathe when it gets too hard.
+- For smoking changa with pipe: [Pack the pipe loosely, exhale completely, lightly inhale while gently getting the top completely lit then take the biggest inhale you can and hold as long as you can, repeat.](https://www.reddit.com/r/DMT/comments/a0d9tn/how_to_smoke_changa_with_a_pipe/)
+- [Once the changa is lit, you should take the lighter away and keep sucking. This will help prevent it from burning.](https://www.reddit.com/r/DMT/comments/5oz389/how_to_smoke_change_with_a_pipe/)
+- [DMT's existence in people, animals, plants, and so on, really isn't that surprising at all. Lots of molecules exist in biological creatures that serve no necessary purpose, but are there merely because they are the unintentional enzymatic products of other essential compounds in the body. DMT is directly derived from Tryptophan, which exists in pretty much all biological life, and is just a few enzymatic transformations away from DMT.](https://www.reddit.com/r/RationalPsychonaut/comments/b3v4fc/why_are_many_dmt_users_fixated_on_the_possibility/)
+  - Amazing comment with more info that follows
+- [You are a group of billons neurons riding a muscle powered skeleton.](https://www.reddit.com/r/DMT/comments/crhchg/holy_fucking_shit/ex7v7dt/?context=1) Great summary of DMT experience.
+- [Hit it til you cant, hit it like it hit you first, hit it like you want to go where it wants to take you, be eager, forget what you know, it will be kind to you that way](https://www.reddit.com/r/DMT/comments/c5y0zo/breakthroughs_on_changa/)
+- It's not about how many hits one takes it's about the dose one takes.
+- 4-6 hits for changa. Just keep doing 15 second draws until you can’t.
+- [For changa: Smoke it out of a any pipe suitable for weed, a small bong is ideal. Also the trick is to corner it and pull the cherry until it's all lit because if you just torch it it'll burn the dmt and the smoke will be horrible.](https://www.reddit.com/r/DMT/comments/cbc2zu/do_you_smoke_changa_the_same_as_pure_dmt/)
+  - If you can get it right it's like breathing in air. The idea is by lighting it slowly you vaporise most of the dmt in the changa. However if in the moment it's not working feel free to light the whole thing up though there's no real rush if the changa contains any significant amount of harmalas.
+- [The DMT experience is extremely intense compared to baseline 0, normal sober human you. You should definitely understand that before indulging into the experience. The fear of death that has come back to you is natural and that fear can come in waves throughout life as our mindset is constantly changing. It's fine and actually pretty normal because right now you are living as a person.](https://www.reddit.com/r/DMT/comments/avg824/im_going_to_smoke_freebase_dmt_for_my_first_time/)
+  - Try to understand again who you are from third person perspective. Know who you are conceptually and understand that the mask you wear at this moment, the person who's life you live out, is made up of all influences (conscious and subconscious) that have culminated since the day of your meat suit's beholder's birth. Understand that you are simply consciousness having a human experience.
+  - This being said you (the idea of you) are going to die on DMT. It's almost like an immediate ego/complete reality death after inhaling the DMT smoke. This is okay though, its not supposed to be scary, rather [the idea of you dying] is quite informative because it's almost like you're being given proof that you are consciousness having a human experience. The feeling I can compare it to now is throwing up very quickly and intensely, but you're throwing up information and it's all going back into yourself and you're just taking it all in getting faster and faster until it's so fast that it's still and everything happens all at once like holy shit this is IT. I AM. It's so weird to try and conceptualize but so mesmerizing/restrictive to know what happens and be conscious of not having the words to be able to explain it. It's a wild cycle
+  - You are smoking DMT for some kind of reason. If you're going to make the decision to let go and allow the life changing experience to take place, then you should just go balls to the wall and smoke pure DMT, especially if you have pure DMT. Allow whatever happens to happen, that will be a part of the experience. I hope you gain the most you can from your experience my friend.
+- [Changa: Use a bong, gently light it so it catches fire then remove flame](https://www.reddit.com/r/DMT/comments/91ftx9/first_time_changa_how_do_i_smoke_it/)
+- [Changa smoking: Great guide](https://www.reddit.com/r/DMT/comments/arrimi/advice_about_doing_changa_dmt_for_the_first_time/)
 
 ## Links
 
-- [Your number ONE most profound realisation after taking DMT...](https://www.reddit.com/r/DMT/comments/7mnp7f/your_number_one_most_profound_realisation_after/)
+- [Your number ONE most profound realization after taking DMT...](https://www.reddit.com/r/DMT/comments/7mnp7f/your_number_one_most_profound_realisation_after/)
 - [Stillpoint](https://vimeo.com/171672516)
-- [Mario in hyperspace](https://www.youtube.com/watch?v=uFqE0uyD2H4&feature=youtu.be)
-- [The Hyperbolic Geometry of DMT Experiences: Symmetries, Sheets, and Saddled Scenes](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/)
+- [Mario in hyperspace](https://www.youtube.com/watch?v=uFqE0uyD2H4)
+- [The Hyperbolic Geometry of DMT Experiences: Symmetries, Sheets, and Saddled Scenes](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/) ([Video](https://www.youtube.com/watch?v=loCBvaj4eSg))
 - [The Machine vaporizer](https://wiki.dmt-nexus.me/The_Machine)
 - [Guidelines for 5-MeO-DMT use](https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=75496)
 - [Hyperspace lexicon](https://wiki.dmt-nexus.me/Hyperspace_lexicon)
@@ -31,3 +49,24 @@
 - [A/B Extraction Tek](https://www.reddit.com/r/DMT/comments/7kcuuh/ab_dmt_extraction_tek/)
 - [What do you think about the DMT experience?](https://www.reddit.com/r/RationalPsychonaut/comments/919nrn/what_do_you_think_about_the_dmt_experience/)
 - [GordoTEK DMT Extraction Technique (2018)](https://www.dailymotion.com/video/x6era19)
+- [Stan Grof about his first 5meo-DMT Experience](https://www.youtube.com/watch?v=xFXQIQp-O2Q)
+- [How to Have the Best DMT Experience: 5 Necessary Steps To Prepare Yourself](https://highexistence.com/5-steps-preparing-spiritual-dmt-ceremony/)
+- [Changa: Smoking DMT infused into Ayahuasca and other Herbs](http://julianpalmerism.com/changa/)
+- [GordoTEK Organic Chemistry Extraction with FAQ (2019)](https://www.youtube.com/watch?v=pLcC94Qbzz8)
+- [The Tao of Rue Extraction](https://wiki.dmt-nexus.me/The_Tao_of_Rue_Extraction)
+- [Written Out Version of GordoTEK DMT extraction TEK (heptane variants included)](https://www.patreon.com/posts/written-out-of-21369133)
+- [First time doing 5-MeO-DMT sitter suggestions](https://old.reddit.com/r/5MeODMT/comments/a4ka61/first_time_doing_5meodmt_sitter_suggestions/ebjyo18/?context=3)
+- [How has DMT affected your belief in God/the afterlife? (2019)](https://www.reddit.com/r/DMT/comments/ctwh0r/how_has_dmt_affected_your_belief_in_godthe/)
+- [5-methoxy-N,N-dimethyltryptamine: An ego-dissolving endogenous neurochemical catalyst of creativity](https://www.biorxiv.org/content/10.1101/578435v2.full)
+- [Neural correlates of the DMT experience assessed with multivariate EEG](https://www.nature.com/articles/s41598-019-51974-4) ([HN](https://news.ycombinator.com/item?id=21588101))
+- [HN: 5-MeO-DMT: 20-minute psychoactive experience that’s transforming lives (2020)](https://news.ycombinator.com/item?id=22218645)
+- [Tryptamine to DMT synthesis](https://www.reddit.com/r/TheeHive/comments/fr7y09/tryptamine_to_dmt/)
+- [Brief History of 5-MeO DMT by Hamilton Morris (2019)](https://www.youtube.com/watch?v=Sw_q3ANRu38)
+- [Why people say they believe a DMT breakthrough could give insight to after-life? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/ghhyd6/why_people_say_they_believe_a_dmt_breakthrough/)
+- [Sting talks about his ayahuasca experience (2019)](https://www.youtube.com/watch?v=k3nUVM-v0qU)
+- ["Entity" Contact on DMT (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/hrhmh0/entity_contact_on_dmt/)
+- [Ayahuasca sends neuroscientist to DMT world | Dr. James Cooke [trip report] (2020)](https://www.youtube.com/watch?v=wSr0MteWM2g)
+- [I can’t find any evidence that DMT is produced in the human body (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/j4g5ef/i_cant_find_any_evidence_that_dmt_is_produced_in/)
+- [My theory of DMT after many trips and lots of research (2021)](https://www.reddit.com/r/DMT/comments/l1w69f/my_theory_of_dmt_after_many_trips_and_lots_of/)
+- [Alien Insect](http://www.buildingalienworlds.com/) - Building Alien Worlds. DMT, the brain, and the Structure of Reality.
+- [Your Brain on DMT: Other Dimensions & Therapeutic Use | Dr Andrew Gallimore (2020)](https://www.youtube.com/watch?v=El76tF3O8T8)

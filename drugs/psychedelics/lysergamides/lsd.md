@@ -12,11 +12,17 @@
 - [LSD - Unlocking The Door](https://psychonautwiki.org/wiki/Experience:First_105μg_LSD_-_Unlocking_The_Door) - One of the best trip reports I read.
 - [Shulgin's entry](https://erowid.org/library/books_online/tihkal/tihkal26.shtml)
 - [Experiences on acid](https://knowingless.com/2017/02/11/experiences-on-acid/)
-
-## Replications
-
-![](https://i.imgur.com/KmoLMut.jpg)
-
-![](https://i.imgur.com/KIOwcsY.jpg)
-
-![](https://i.imgur.com/l6RiAKr.jpg)
+- [Microdosing with LSD and its Research Potential (2017)](https://heffter.org/microdosing-lsd-research-potential/)
+- [Weirdest thing that has happened to you on acid? (2019)](https://www.reddit.com/r/RationalPsychonaut/comments/dqwqtm/weirdest_thing_that_has_happened_to_you_on_acid/)
+- [ELI5: LSD](https://www.reddit.com/r/explainlikeimfive/comments/dymtnq/eli5_lsd/)
+- [Selen Atasoy: Enhanced Improvisation in LSD Brain Processing (2017)](https://www.youtube.com/watch?v=jKAZCzATmnk)
+- [LSD — My Problem Child (1980)](https://maps.org/images/pdf/books/lsdmyproblemchild.pdf) ([HN](https://news.ycombinator.com/item?id=21878726))
+- [LSD, Childhood Memories, And The Science Of Nostalgia (2020)](https://medium.com/@psychedelicsaremedicine/lsd-childhood-memories-and-the-science-of-nostalgia-32bebb1fe1e9)
+- [History of LSD in Czechoslovakia (2018)](https://przekroj.pl/en/society/a-communist-lsd-trip-aleksander-kaczorowski) ([HN](https://news.ycombinator.com/item?id=22208132))
+- [Practical LSD Manufacture, by: Uncle Fester (1995)](https://files.shroomery.org/cms/5841102-practicallsd-UncleFester.pdf) ([Reddit](https://www.reddit.com/r/DrugNerds/comments/gjoayy/practical_lsd_manufacture_by_uncle_fester_full/))
+- [Гид по ЛСД (2020)](https://docs.google.com/document/d/1nCsTtLruccmWqWRZ7CQ1gRZoRYFZODLF9mPmqDz4P70/edit)
+- [HN: LSD Chemist William Pickard to Be Released from Prison (2020)](https://news.ycombinator.com/item?id=23947157)
+- [How LSD Almost Became the 13th Step (2019)](https://prohbtd.com/read/alcoholics-anonymous-how-lsd-almost-became-the-13th-step/) ([HN](https://news.ycombinator.com/item?id=23952390))
+- [Story of LSD](https://twitter.com/PulpLibrarian/status/1294322294408515584)
+- [Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers (2020)](https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099) ([HN](https://news.ycombinator.com/item?id=24391387))
+- [David Nichols - From ergot to LSD and beyond (2020)](https://www.youtube.com/watch?v=iu0EZFz0-KQ)

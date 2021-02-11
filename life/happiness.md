@@ -14,7 +14,7 @@ Aside from mindfulness and awareness, you can increase your chances of feeling h
 
 These 3 things I found to most greatly improve anything else that I want to do in life. A healthy body leads to a healthy mind.
 
-Another point not mentioned there is _purpose_. A lack of direction in life and the constant questioning of whether what you are doing is the 'right' thing only causes more and more anxiety with time. I find [stoic](http://www.wikiwand.com/en/Stoicism) philosophy solves this problem for me. There is no purpose to life. There is nothing in life you ought to be doing. Nothing in life you have to prove to anyone. You make your own purpose and meaning in life. I find this philosophy incredibly liberating as there is no right or wrong answer to the question of what it is you should be doing in life. If you are unhappy with what you are doing, try to change it. Don't attach yourself to anything as nothing is permanent. Value the things you have in life now. Only you can give meaning to anything. Choose wisely what matters to you and focus on that.
+Another point not mentioned there is _purpose_. A lack of direction in life and the constant questioning of whether what you are doing is the 'right' thing only causes more and more anxiety with time. I find [stoic](http://en.wikipedia.org/wiki/Stoicism) philosophy solves this problem for me. There is no purpose to life. There is nothing in life you ought to be doing. Nothing in life you have to prove to anyone. You make your own purpose and meaning in life. I find this philosophy incredibly liberating as there is no right or wrong answer to the question of what it is you should be doing in life. If you are unhappy with what you are doing, try to change it. Don't attach yourself to anything as nothing is permanent. Value the things you have in life now. Only you can give meaning to anything. Choose wisely what matters to you and focus on that.
 
 ## My personal happiness
 
@@ -45,8 +45,18 @@ I practice this art of minimizing and focusing on what's important to me & remov
 
 - [I agree with you that happiness is peace. And it is a state of mind irregardless of what you experience, you can be in this peaceful state detached from emotions and feelings, only attaching yourself to things that matter to you. Mindfully observing your experience.](https://www.reddit.com/r/Psychonaut/comments/8f52lr/my_thoughts_on_happiness/)
   - As for its relation to neurochemistry, I most certainly agree that it plays a major role. That's why things like exercise, proper nutrition and plentiful sleep plays such a huge role in achieving and maintaining this state of happiness. Without those three things, or in other words, without you taking care of your body, reaching these states of being is simply much harder if not impossible.
+- Happiness is the absence of striving for happiness.
 
 ## Links
 
 - [On learning to enjoy things](https://ryn.works/2018/03/12/on-learning-to-enjoy-things/)
 - [Self Care Tech](http://selfcare.tech/) - Repository of self-care resources for developers & others.
+- [What We Want Doesn’t Always Make Us Happy](https://www.bloomberg.com/opinion/articles/2019-05-01/what-we-want-doesn-t-always-make-us-happy) - Basic principle of economics keeps getting turned on its head. ([HN](https://news.ycombinator.com/item?id=20074303))
+- [The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being)
+- [Three Equations for a Happy Life](https://www.theatlantic.com/family/archive/2020/04/how-increase-happiness-according-research/609619/)
+- [How to be happy? Most people have it backwards](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant) ([HN](https://news.ycombinator.com/item?id=23700043))
+- [The Lost Art of Crying](https://nibrasi.co.uk/the-lost-art-of-crying)
+- [‘Success Addicts’ Choose Being Special over Being Happy (2020)](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/) ([HN](https://news.ycombinator.com/item?id=24007274))
+- [How to be happy (without getting lucky)](https://twitter.com/dvassallo/status/1300306727963828226)
+- [What small change(s) has made a large impact on your life? (2020)](https://lobste.rs/s/4oiijk/what_small_change_s_has_made_large_impact)
+- [100+ Hacks for Boosting Your Happiness Chemicals](https://www.theemotionmachine.com/100-hacks-for-boosting-your-happiness-chemicals/)

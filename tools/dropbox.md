@@ -2,7 +2,7 @@
 
 Dropbox is a pretty amazing service to share and keep files on the cloud. There is always privacy risks involved unless you put encrypted files in there but it is still undeniably great service.
 
-I have a folder `shares` and inside it is where I put various files that I want to publicly share with people. I then use a modified version of [Directory Watches workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true) to scan through this folder from Alfred. I then modified one of the actions so that on pressing `return` it gives me a shareable link of the file. Here is how that Alfred filter looks like for me:
+I have a folder `Shares` and inside it is where I put various files that I want to publicly share with people. I then use a modified version of [Directory Watches workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true) to scan through this folder from Alfred. I then modified one of the actions so that on pressing `return` it gives me a shareable link of the file. Here is how that Alfred filter looks like for me:
 
 ![](https://i.imgur.com/ipbEhil.png)
 
@@ -13,3 +13,7 @@ For sharing files temporarily I use [transfer.sh](https://transfer.sh) and [Vito
 I also use Dropbox for sharing configuration of various apps.
 
 ![](https://i.imgur.com/F9nsqBn.png)
+
+## Links
+
+- [Replacing Dropbox in favor of DigitalOcean spaces (2021)](https://mitjafelicijan.com/replacing-dropbox-in-favor-of-digitalocean-spaces.html) ([HN](https://news.ycombinator.com/item?id=25909336))

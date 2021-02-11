@@ -1,6 +1,6 @@
 # Life
 
-I live an interesting life. I think. It is fascinating to think what I would be doing if I was born a decade earlier or few decades later. How different would my life be? But I may probably never know that.
+I live an interesting life. I think. It is fascinating to think what I would be doing if I was born a decade earlier or few decades later. How different would my life be?
 
 In any way, you probably live only one life. So best [make it count](http://paulgraham.com/vb.html).
 
@@ -16,6 +16,25 @@ In any way, you probably live only one life. So best [make it count](http://paul
 
 - [13 Lessons Learned](https://brightthemag.com/13-lessons-learned-e4f8ceb21e60)
 - [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
-- [Steve Jobs's philosophy](https://www.youtube.com/watch?v=uwf38MVMbc8)
+- [Steve Jobs's philosophy](https://www.youtube.com/watch?v=kYfNvmF0Bqw) ([Comic](https://twitter.com/linuz90/status/1318669341072699393))
 - [Alan Watts Explains What Awakening Means](https://www.youtube.com/watch?v=7SfZZlpfaN0)
 - [Handful of long-form posts on lifestyle](https://wiki.xxiivv.com/#lifestyle)
+- [Life Under The Ice](https://lifeundertheice.org/) - Exploratory tour through the microscopic world of Antarctica.
+- [Why Are You Alive – Life, Energy & ATP (2020)](https://www.youtube.com/watch?v=QImCld9YubE)
+- [The Odds of Life and Intelligence (2020)](https://www.youtube.com/watch?v=iLbbpRYRW5Y) ([Twitter](https://twitter.com/BadAstronomer/status/1262759449384517634))
+- [The Chiral Puzzle of Life (2020)](https://iopscience.iop.org/article/10.3847/2041-8213/ab8dc6) ([HN](https://news.ycombinator.com/item?id=23294294))
+- [Life as Thermodynamic Evidence of Algorithmic Structure in Nature (2012)](https://www.mdpi.com/1099-4300/14/11/2173) ([HN](https://news.ycombinator.com/item?id=23448081))
+- [Ask HN: I implemented the life I designed: perfect but I feel lost. What now? (2020)](https://news.ycombinator.com/item?id=23450110)
+- [‘Electric mud’ teems with new, mysterious bacteria (2020)](https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria) ([HN](https://news.ycombinator.com/item?id=24233544))
+- [Life is Short (2016)](http://paulgraham.com/vb.html) ([HN](https://news.ycombinator.com/item?id=24313158))
+- [On the Use of a Life (2020)](http://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html) ([HN](https://news.ycombinator.com/item?id=24537865)) ([Lobsters](https://lobste.rs/s/d8wxhi/on_use_life))
+- [Life's Small-Molecule Problem (2020)](https://www.scientificamerican.com/article/lifes-small-molecule-problem/)
+- [How to waste your career, one comfortable year at a time (2020)](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable) ([HN](https://news.ycombinator.com/item?id=24809530))
+- [I turn 27 today, here's ~27 micro-essays on life (2020)](https://www.mrdbourke.com/27/)
+- [Ask HN: What's Life All About? (2020)](https://news.ycombinator.com/item?id=25000134)
+- [Tibor Gánti's ideas about the origins of life (2020)](https://www.nationalgeographic.com/science/2020/12/he-may-have-found-the-key-to-origins-of-life-tibor-ganti-chemoton/) ([HN](https://news.ycombinator.com/item?id=25508394))
+- [Tips for a Better Life (2020)](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life) ([HN](https://news.ycombinator.com/item?id=25518730))
+- [What If You Could Do It All Over? (2020)](https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over) ([HN](https://news.ycombinator.com/item?id=25547448))
+- [What Is Life? (2019)](https://berthub.eu/articles/posts/what-is-life/) ([HN](https://news.ycombinator.com/item?id=25592916))
+- [Powerful Life Skills (2021)](https://neilkakkar.com/powerful-life-skills.html)
+- [Great Essays of Life Advice](https://lw2.issarice.com/posts/zMmQdob3eFfeMh7D3/my-favorite-essays-of-life-advice)

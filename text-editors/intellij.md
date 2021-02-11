@@ -1,5 +1,17 @@
 # [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
-Don't write a lot of Java but the IDE is amazing.
+Don't use it any more as I don't write Java/Kotlin and love VS Code.
 
-I use [IdeaVim plugin](https://plugins.jetbrains.com/plugin/164-ideavim) and [Fira Code](https://github.com/tonsky/FiraCode) as my font.
+## Nice plugins
+
+- [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim) - Vim mode. ([Code](https://github.com/JetBrains/ideavim))
+- [IdeaVim-EasyMotion](https://github.com/AlexPl292/IdeaVim-EasyMotion) - EasyMotion emulation plugin for IdeaVim.
+
+## Nice themes
+
+- [Monokai](https://darekkay.com/blog/monokai-theme-intellij/)
+- [Alabaster](https://github.com/tonsky/intellij-alabaster) - Simple white theme.
+
+## Links
+
+- [Switching from Vim to IntelliJ (2020)](https://browntreelabs.com/from-vim-to-intellij/) ([HN](https://news.ycombinator.com/item?id=24998260))

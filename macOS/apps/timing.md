@@ -1,18 +1,15 @@
 # [Timing](https://timingapp.com/?lang=en)
 
-I use Timing app to fully automate tracking my time on my computer.
+I once used Timing app to fully automate tracking time I spend on my computer.
 
-The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
+![](https://i.imgur.com/tj0nmih.png)
 
-![](https://i.imgur.com/CS5boja.png)
+I setup projects in Timing with rules assigned for each project. I then had Timing infer time I spent on these projects automatically based on the rules.
 
-My projects look like this:
-
-![](https://i.imgur.com/lTSgHvg.png)
-
-One thing I realized after using Timing for over 2 years is that for a long time, I was tracking actions rather than actual projects and the actual value comes from knowing how much time I spent on particular project that matters to me. In this way, Timing also has perfect synergy with my [Focus Trello board](../../focusing/focusing.md).
+No longer use any tracking apps as part of my minimization of tools I use.
 
 ## Notes
 
 - Can press ⌥ + → in `Review` tab to expand all items fully (assuming I selected the items I want to expand). Can `CMD+A` to select all projects beforehand.
 - Running `defaults write info.eurocomp.Timing2 letTaskSuggestionsOverrideExistingProjects -bool true` would make task suggestions independent of current project.
+- `defaults write info.eurocomp.Timing2 TaskActivitySuggestionsTableViewController.selectFirstSuggestionByDefault -bool true` makes the first suggestion on by default.

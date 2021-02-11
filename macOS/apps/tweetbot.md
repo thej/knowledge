@@ -1,21 +1,20 @@
 # [Tweetbot](https://tapbots.com/tweetbot/mac/)
 
-I use the app to stay up to date and communicate on Twitter.
+I use the app to stay up to date and communicate on [Twitter](../../tools/twitter.md).
 
-Tweetbot is also blocked for me during my `Focus` time. I can only post tweets but I can't visit the app to see my feeds.
+I split the app into 2 columns on mac.
 
-Twitter is my primary way to stay up to date on things and is my favorite social network after GitHub. I curate and publicly share all [Twitter lists](https://twitter.com/nikitavoloboev/lists) I personally use.
+- First column: Mentions / Messages / Other
+- Second column: [Timeline](https://twitter.com/nikitavoloboev/following). Tweets with highest value to me.
 
-The app is always full screen for me. And is split into four columns.
+![](https://i.imgur.com/uMoGfGx.png)
 
-- First column: Mentions / Messages / [Software](https://twitter.com/nikitavoloboev/lists/software)
-- Second column: [Top](https://twitter.com/nikitavoloboev/lists/top). Tweets with highest value to me.
-- Third column: [ML](https://twitter.com/nikitavoloboev/lists/ml). Machine learning news.
-- Fourth column: [Other](https://twitter.com/nikitavoloboev/lists/other1) list. Tweets with least priority to me.
+I use Tweetbot only on macOS. On iOS, I use the official Twitter app.
 
-Here is how that all looks together for me:
+## Notes
 
-![](https://i.imgur.com/n60bl8w.jpg)
+- There is a limit of 1600 tweets that can be shown in Timeline or list. More than that will not be shown and tweets will be lost from the feed. 😞
+- Tweetbot has onscreen keys to like, retweet. `f` or `l` to like. `space` to reply.
 
 ## Links
 

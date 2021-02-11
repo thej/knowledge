@@ -2,7 +2,7 @@
 
 Consciousness is an interesting thing. The only way to study it is through self reflection, meditation and awareness.
 
-[Stanislav Grof](http://www.wikiwand.com/en/Stanislav_Grof) does interesting work on this subject.
+[Stanislav Grof](http://en.wikipedia.org/wiki/Stanislav_Grof) does interesting work on this subject.
 
 ## Notes
 
@@ -24,9 +24,30 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - Without hope, the human being simply ceases to function. And there is nothing that robs of us of hope quicker than the realization that one day everything will end. So I see religion/spirituality as being an adaptive mechanism to our development of self-awareness. We've become 'too aware' for our own good, so to speak, and as a result we've invented stories which ease that anxiety.
 - There are two ways of looking at things: from the outside, and from the inside. But these are two sides of the same coin.
 - [I think human consciousness, is a tragic misstep in evolution. We became too self-aware, nature created an aspect of nature separate from itself, we are creatures that should not exist by natural law](https://www.youtube.com/watch?v=O93EtnBD3ng).
+- [Free will is an illusion. Volition (the experience of doing something intentionally) is a feeling that can be triggered and disabled at will in lab environments. There's a distinction between an external force causing you to do something and an internal one. Both are deterministic at the end of the day. But that experience has clear evolutionarily adaptive qualities for anything that is good at persisting to exist.](https://www.reddit.com/r/RationalPsychonaut/comments/ghhyd6/why_people_say_they_believe_a_dmt_breakthrough/)
+  - Consciousness is simply the experience of being. It doesn't need to accompany an experience of identity, agency, memory, attention, or many other subsets of experience. Those are all just kinds of experiences. None of them are experience per se, ie. consciousness.
+  - Consciousness is intrinsic and necessarily exists prior to or at least in perfect concert with the natural material world. There is no logically coherent philosophical defence of epiphenomenalism. I experience, therefore I am. The grounds for defending the existence of experience are far less shaky than the ground for defending the existence of an experienceless physical reality. Dualism grasps at further straws.
+- [We don't experience reality, we experience our perception. Calling some things reality or objective is a useful ontological framework but experientially It's all perception with assumed objective/reality/other source.](https://www.reddit.com/r/RationalPsychonaut/comments/jhjeai/what_irrational_things_are_frowned_upon_by_the/)
 
 ## Links
 
 - [What it means to live a conscious life?](https://medium.com/@nikitavoloboev/what-it-means-to-live-a-conscious-life-c96f6517077) - My thoughts on compassion and living a conscious life.
 - [The Evolution of Consciousness](https://www.youtube.com/watch?v=XbOP0IKpsZ0)
 - [Where is our consciousness, and is it a thing that has mass/matter?](https://www.quora.com/Where-is-our-consciousness-and-is-it-a-thing-that-has-mass-matter/answer/Paul-King-2)
+- [The Origin of Consciousness – How Unaware Things Became Aware (2019)](https://www.youtube.com/watch?v=H6u0VBqNBQ8)
+- [Roger Penrose: Physics of Consciousness and the Infinite Universe (2020)](https://overcast.fm/+OcVcF49c8)
+- [Can AI Become Conscious? (2020)](https://cacm.acm.org/news/244846-can-ai-become-conscious/fulltext) ([HN](https://news.ycombinator.com/item?id=23157312))
+- [Electrons May Very Well Be Conscious (2020)](http://nautil.us//blog/electrons-may-very-well-be-conscious) ([HN](https://news.ycombinator.com/item?id=23215877))
+- [Joscha Bach: Artificial Consciousness and the Nature of Reality (2020)](https://overcast.fm/+OcVcduJ_s) ([HN](https://news.ycombinator.com/item?id=23923183))
+- [Sir Roger Penrose & Dr. Stuart Hameroff: Consciousness and the physics of the brain (2020)](https://www.youtube.com/watch?v=xGbgDf4HCHU) ([Notes](https://news.ycombinator.com/item?id=24090384))
+- [Consciousness and the Social Brain book notes](https://leontrolski.github.io/consciousness.html)
+- [Your brain hallucinates your conscious reality | Anil Set (2017)](https://www.youtube.com/watch?v=lyu7v7nWzfo)
+- [Are the Brain’s Electromagnetic Fields the Seat of Consciousness? (2020)](http://nautil.us/blog/are-the-brains-electromagnetic-fields-the-seat-of-consciousness) ([HN](https://news.ycombinator.com/item?id=24906232))
+- [Do we have free will? (2020)](https://twitter.com/dan_abramov/status/1322140012184543233)
+- [How does consciousness even make sense?](http://niklasbuehler.com/blog/consciousness.html) ([HN](https://news.ycombinator.com/item?id=25039045))
+- [A Theoretical Computer Science Perspective on Consciousness (2020)](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf)
+- [Book Review: Consciousness Explained (2020)](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained)
+- [Electrons May Very Well Be Conscious (2020)](http://nautil.us/issue/94/evolving/electrons-may-very-well-be-conscious)
+- [The Mathematics of Consciousness (2021)](https://www.youtube.com/watch?v=efVBUDnD_no) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/ku2v56/the_mathematics_of_consciousness_with_physicist/))
+- [On the Medium of Thought (2020)](https://qualiacomputing.com/2020/12/12/on-the-medium-of-thought/)
+- [Do quantum effects play a role in consciousness? (2021)](https://physicsworld.com/a/do-quantum-effects-play-a-role-in-consciousness/)

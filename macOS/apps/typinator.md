@@ -1,8 +1,6 @@
 # [Typinator](http://www.ergonis.com/products/typinator/)
 
-I use the app to [fully automate writing repetitive text](https://medium.com/@nikitavoloboev/write-once-never-write-again-c2fa1f6c4e8).
-
-I share all the Typinator sets I made with the app [here](typinator#readme).
+Used the app [previously](https://github.com/nikitavoloboev/knowledge/blob/27bdf4e90829c7f5fafe61fdaf57f0d13a2d15ed/macOS/apps/typinator.md) to automate text expansions. Now use [Alfred](alfred/alfred.md) (simple expansions) & [Keyboard Maestro](keyboard-maestro/keyboard-maestro.md) (complex) instead.
 
 ## Notes
 
@@ -10,5 +8,5 @@ I share all the Typinator sets I made with the app [here](typinator#readme).
 
 ## Links
 
-- [Write once, never write again](https://medium.com/@nikitavoloboev/write-once-never-write-again-c2fa1f6c4e8) - Detailed article on how I effectively use Typinator together with [Keyboard Maestro](km/km.md) to automate big parts of my writing process.
+- [Write once, never write again](https://medium.com/@nikitavoloboev/write-once-never-write-again-c2fa1f6c4e8) - Detailed article on how I effectively use Typinator together with [Keyboard Maestro](keyboard-maestro/keyboard-maestro.md) to automate big parts of my writing process.
 - [Fantastical natural input + Text expansions](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3) - How to use Typinator to quickly expand natural language date times in [Fantastical](https://flexibits.com/fantastical) app.

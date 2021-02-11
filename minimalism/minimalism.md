@@ -8,26 +8,30 @@ What I find important in life changes as I gain more experience but I always try
 
 ## Possessions
 
-I keep a [Trello board](https://trello.com/b/HotsLGsc) where I list things I own in my life. I mark items that I no longer need with `Sell` tag as well as items I need to upgrade with `Upgrade`. I try to make sure that the items I do own fit into one backpack so I can move to any place in the world with no effort.
+I list [all the things I own](../sharing/things.md) in life. I make sure that it all fits into one backpack or extra bag so I can move to any place in the world with no effort.
 
-Here is how that board looks for me:
-
-![](https://i.imgur.com/xzyxiap.png)
-
-I put the prices of the items I buy as descriptions as well how I use each of them & the link where I bought the item from. I then use [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
-
-I [budget all my money](../finance/finance.md) into categories each month. This allows me to spend my money mindfully and not buy things I don't need.
+I [budget & invest my money](../economy/finance.md).
 
 ## Notes
 
 - [Will this item provide value? If not, get rid of it.](https://www.reddit.com/r/minimalism/comments/846drx/extreme_minimalism_a_trend/)
 - I've found the easiest stuff to organize is the stuff I no longer have.
 - [The core of minimalism is having more by owning less (have more value while having less things).](https://www.reddit.com/r/minimalism/comments/8xnssq/have_you_ever_tried_to_incorporate_minimalism/)
-- [Minimalism, at it's core, should not be defined by the number of items you own but by our relationship with material goods. In our society, our identity is linked to the things that we own. We are the books on the shelf and the pictures in a box. Just throwing away those items, does not break that dependance.](https://www.reddit.com/r/minimalism/comments/8x8su3/at_what_point_is_minimalism_an_unhealthy_obsession/)
-  - When we break our dependance on material objects, we naturally find no use for the things that we do not need. Only when we extinguish that need to own things can we call ourselves minimalists. Otherwise, we are just trying to impress. If there is struggle, then there is dysfunction.
+- [Minimalism, at it's core, should not be defined by the number of items you own but by our relationship with material goods. In our society, our identity is linked to the things that we own. We are the books on the shelf and the pictures in a box. Just throwing away those items, does not break that dependence.](https://www.reddit.com/r/minimalism/comments/8x8su3/at_what_point_is_minimalism_an_unhealthy_obsession/)
+  - When we break our dependence on material objects, we naturally find no use for the things that we do not need. Only when we extinguish that need to own things can we call ourselves minimalists. Otherwise, we are just trying to impress. If there is struggle, then there is dysfunction.
 - So many people are just replacing their attachment and dependency with tangible objects into attachment and dependency with the "idea" of minimalism. It morphs into someone's entire identity. It's just trading one addiction with another.
 - [FB Market Place](https://facebook.com/marketplace), [Ebay](https://www.ebay.com), [Gumtree](https://www.gumtree.com/), [Swappa (US only)](https://swappa.com) can be used to sell things.
 
 ## Links
 
 - [Living with less. Everything i own now fits into a single carry-on bag.](http://www.wernervanrooyen.com/living-with-less-one-bag/)
+- [How a Month without Computers Changed Me](https://dev.to/iskin/how-a-month-without-computers-changed-me-1ho4)
+- [Going minimal (2012)](http://wy.io/going-minimal/)
+- [There Is Too Much Stuff (2019)](https://www.theatlantic.com/health/archive/2019/05/too-many-options/590185/) ([HN](https://news.ycombinator.com/item?id=20018756))
+- [Minimalism — The most undervalued development skill (2019)](https://volument.com/blog/minimalism-the-most-undervalued-development-skill) ([HN](https://news.ycombinator.com/item?id=21871491))
+- [mnmllist](https://mnmll.ist/) - Listing all things minimal.
+- [Living with less. Everything I own now fits into a single carry-on bag](https://www.wernervanrooyen.com/living-with-less-one-bag/)
+- [Minimally Minimal](http://www.minimallyminimal.com/)
+- [Working Off-Grid Efficiently](https://100r.co/site/working_offgrid_efficiently.html) ([HN](https://news.ycombinator.com/item?id=25723819))
+- [offgrid house](https://joeyh.name/offgrid/)
+- [Creators of ORCA and their works embracing tech minimalism and software freedom (2021)](https://esoteric.codes/blog/100-rabbits) ([HN](https://news.ycombinator.com/item?id=26054594))

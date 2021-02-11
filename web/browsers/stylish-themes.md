@@ -1,14 +1,10 @@
 # [Stylish](https://userstyles.org) themes
 
-I prefer to use dark interfaces on websites. I use [Cascadea](https://cascadea.app) Safari Extension to change the looks of the sites I use to have darker colors in cases where sites don't have them as default. The extension also lets you import any of [Stylish themes](https://userstyles.org) to it.
+I once used [Cascadea](https://cascadea.app) Safari Extension to change the looks of sites to have darker colors. The extension lets you import any of [Stylish themes](https://userstyles.org). Here is a [download of all the Cascadea styles I used](https://www.dropbox.com/s/dcnhujryt0ydft5/Cascadea%20Styles.sdb?dl=1). For sites I didn't modify with Cascadea, I ran [Dark Reader](https://darkreader.org/) extension which automatically turns all websites dark although with some performance overhead.
 
-I use Chrome only for webdev and I use [Stylus](https://github.com/openstyles/stylus#readme) there instead of Stylish as the latter [collects websites you visit](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/).
+I don't use either of those extensions now (due to performance issues + I prefer light themes often for readability during the day). I dream of the future where all sites switch automatically between light & dark themes based of OS theme setting.
 
-Below are themes I like using:
-
-## [GitHub Dark](https://userstyles.org/styles/37035/github-dark)
-
-![](https://i.imgur.com/ValUboK.png)
+Below are some Stylish themes I used:
 
 ## [Hacker News Dark](https://userstyles.org/styles/113994/hacker-news-dark)
 
@@ -22,10 +18,6 @@ Below are themes I like using:
 
 ![](https://i.imgur.com/VFAXqU1.png)
 
-## [Stack Overflow Dark](https://userstyles.org/styles/35345)
-
-![](https://i.imgur.com/NKI5yj2.png)
-
 ## [SoundCloud Dark](https://userstyles.org/styles/90894/soundcloud-pitch-black)
 
 ![](https://i.imgur.com/hjCCD1E.png)
@@ -34,4 +26,12 @@ Below are themes I like using:
 
 ![](https://i.imgur.com/nCjge7A.png)
 
-For reading wiki I use [Dictionary app](https://wokabulary.com/blog/the-built-in-dictionary-on-mac-and-iphone.html) which has dark mode with Mojawe.
+## [Wikipedia](https://userstyles.org/styles/122072/wikipedia-dark-material-design)
+
+![](https://i.imgur.com/rcMQfXY.png)
+
+I prefer reading wiki with [Dictionary app](https://wokabulary.com/blog/the-built-in-dictionary-on-mac-and-iphone.html) as it's fast to search it.
+
+## Links
+
+- [Awesome Dark Themes for websites](https://github.com/JJGO/awesome-dark-themes)

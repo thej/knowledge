@@ -3,7 +3,7 @@
 ## Interesting Modules
 
 - [Advanced ZNC playback](http://wiki.znc.in/Playback)
-- [Mutter](https://wiki.znc.in/Mutter)
+- [otr](https://wiki.znc.in/Otr) - Allows you to encrypt private conversations using the OTR protocol.
 
 ## ZNC commands
 
@@ -18,3 +18,4 @@
 
 - [ZNC commands](https://wiki.znc.in/Using_commands)
 - [Modules](https://wiki.znc.in/Modules)
+- [LunarBNC](https://lunarbnc.net/) - Free BNC service.

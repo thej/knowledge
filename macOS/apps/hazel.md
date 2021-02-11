@@ -1,6 +1,8 @@
 # [Hazel](https://www.noodlesoft.com)
 
-I share all my Hazel rules and how I use them [here](https://github.com/nikitavoloboev/my-mac-os/tree/master/hazel#readme).
+I once used Hazel to sort things in `~/Downloads` folder.
+
+You can [sync Hazel rules](https://www.noodlesoft.com/manual/hazel/work-with-folders-rules/manage-rules/sync-rules/) with Dropbox.
 
 ## Notes
 
@@ -14,3 +16,4 @@ I share all my Hazel rules and how I use them [here](https://github.com/nikitavo
 
 - [Reference hazel file path](https://forum.keyboardmaestro.com/t/reference-hazels-file-path/9138)
 - [Hazel Debug Mode](https://www.noodlesoft.com/kb/hazel-debug-mode/)
+- [Nice use cases of Hazel](https://news.ycombinator.com/item?id=24612436)

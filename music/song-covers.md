@@ -2,6 +2,12 @@
 
 ## Favorite
 
+- [Positions by Ariana Cover](https://www.youtube.com/watch?v=a3dOy4KXXvY)
 - [Passionfruit - Drake (Jazz Guitar Loop)](https://www.youtube.com/watch?v=KK26ueQ5hEg)
-- [Under the Sea - the Little Mermaid Soundtrack (Jazz Guitar Loop)](https://www.youtube.com/watch?v=3rex2BXtijw)
 - [Земфира - Хочешь? (theToughBeard)](https://www.youtube.com/watch?v=4gS4tDcmTZw)
+- [Aurora | Queendom | Loustic Sessions](https://www.youtube.com/watch?v=uM8Wqfv5Jw8)
+- [Ultraviolence - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=Lxg58bMfgDQ)
+- [Blue Jeans - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=ZOjw1y25h-U)
+- [Born to Die - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=uy53wVs0u6U)
+- [Serial Killer - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=tNUzrI9iEZM)
+- [Art Deco - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=xHUhQHt9DaM)

@@ -1,4 +1,4 @@
-# Making Workflows
+# Making workflows
 
 There is a [detailed article](https://medium.com/@nikitavoloboev/writing-alfred-workflows-in-go-2a44f62dc432) available on how you can write workflows in Go language.
 
@@ -10,13 +10,13 @@ I like to write all my workflows in Go language unless the workflow can be done 
 
 ### Using Go and [AwGo](https://github.com/deanishe/awgo)
 
-1. Create a folder in `~/Documents/src/alfred`. Prefix the folder name with `alfred-`. i.e. `alfred-web-searches`.
+1. Create a folder in `~/src/alfred`. Prefix the folder name with `alfred-`. i.e. `alfred-web-searches`.
 2. Initialize the folder with git as any project.
 3. Inside the `alfred-..` folder I create a `workflow` directory. This is where the actual workflow will live in as well as the binary file compiled from my Go code.
 4. Create the workflow I want to make in Alfred Preferences. Add the icon, name and unique bundle ID. And add the workflow to my custom `Mine` category so I can quickly filter out all the workflows I've ever made inside Alfred.
 5. Carry the info.plist and .png file of the logo to this workflow directory I created. I use Alfred's _Move To..._ file action for quickly transferring files. You can find these files by going here.
 
-   ![](https://i.imgur.com/5UBCGbc.png)
+![](https://i.imgur.com/5UBCGbc.png)
 
 6. Delete the workflow I made from Alfred preferences.
 7. Inside my `alfred-..` directory I run `alfred link`. That creates a symlink between the workflow directory and where the actual workflow lies. This uses [alfred](https://godoc.org/github.com/jason0x43/go-alfred/alfred) CLI tool.
@@ -26,12 +26,12 @@ I like to write all my workflows in Go language unless the workflow can be done 
 
 ### Using Alfred builtin objects + some code
 
-1. Create a folder in `~/Documents/src/alfred/small-workflows`. Name the folder by workflow name, lowercased and separated by dashes without `alfred` prefix.
+1. Create a folder in `~/src/alfred/small-workflows`. Name the folder by workflow name, lowercased and separated by dashes without `alfred` prefix.
 2. Inside the folder I create a `workflow` directory.
 3. Create the workflow I want to make in Alfred Preferences. Add the icon, name and unique bundle ID. Add the workflow to `Mine` category.
 4. Carry the info.plist and .png file of the logo to `workflow` directory I just made.
 5. Delete the workflow I made from Alfred preferences.
-6. Inside my workflow's folder in _small workflows_, I run `workflow-install -s workflow`. `workflow-install` command is placed inside my [~/.dotfiles/bin](https://github.com/nikitavoloboev/dotfiles/tree/master/bin) which is added to my $PATH. The [script](https://gist.github.com/deanishe/35faae3e7f89f629a94e) symlinks the `workflow` directory to Alfred.
+6. Inside my workflow's folder in _small workflows_, I run `workflow-install -s workflow`. `workflow-install` command is placed inside my [~/.dotfiles/bin](https://github.com/nikitavoloboev/dotfiles/tree/master/bin) which is added to my \$PATH. The [script](https://gist.github.com/deanishe/35faae3e7f89f629a94e) symlinks the `workflow` directory to Alfred.
 7. If the workflow is private to me, I prefix it's name with `a.` before the workflow name to indicate that I have not released the workflow yet or it contains sensitive information.
 8. Create the Alfred objects I need to make the workflow does what I want. If the workflow needs something more complex, I sometimes create Python files inside the workflow dir to do what I want and call them from the Script Filters.
 9. In cases where I want to release the workflow, I strip the `a.` prefix from the name. Then go to to my [Objects library](https://github.com/nikitavoloboev/small-workflows/tree/master/objects-library) workflow and transfer a [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) object to my workflow.

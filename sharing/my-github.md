@@ -1,58 +1,46 @@
 # My [GitHub](https://github.com/nikitavoloboev) repositories
 
-The number between brackets shows the year I created the repo in. Repos with 🌟 are my **favorite**. Repos with 💡 are in an idea stage.
-
 ## Learn Anything
 
-- [Learn Anything (2017) 🌟](https://github.com/learn-anything/learn-anything#readme) - Search Interactive Maps to Learn Anything.
-- [Alfred Learn Anything (2017) 🌟](https://github.com/nikitavoloboev/alfred-learn-anything#readme) - Alfred workflow to search Learn Anything.
-- [Curated lists (2018) 🌟](https://github.com/learn-anything/curated-lists#readme) - Curated lists on various topics.
+- [Learn Anything (2017)](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths.
+- [Alfred Learn Anything (2017)](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search Learn Anything.
+- [Curated lists (2017)](https://github.com/learn-anything/curated-lists) - Curated lists on various topics.
 
 ## Alfred
 
-- [Ask Create Share (2017) 🌟](https://github.com/nikitavoloboev/alfred-ask-create-share#readme) - Create web submissions (Stack exchange, Reddit and more).
-- [Web Searches (2017) 🌟](https://github.com/nikitavoloboev/alfred-web-searches#readme) - Search through any website (easily extendable list).
-- [My Mind (2017) 🌟](https://github.com/nikitavoloboev/alfred-my-mind#readme) - Search through my notes and bookmarks.
-- [Small Workflows (2017) 🌟](https://github.com/nikitavoloboev/small-workflows#readme) - Small Alfred workflows I use.
-- [Awesome Lists (2017) 🌟](https://github.com/nikitavoloboev/alfred-awesome-lists#readme) - Search awesome lists.
-- [GitHub (2018) 💡](https://github.com/nikitavoloboev/alfred-github-users#readme) - Search GitHub.
-- [Trello (2018) 💡](https://github.com/nikitavoloboev/alfred-trello#readme) - Search Trello.
+- [Awesome Lists (2017)](https://github.com/nikitavoloboev/alfred-awesome-lists) - Search awesome lists.
+- [Small Workflows (2017)](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
+- [My Mind (2017)](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my notes and bookmarks.
+- [Web Searches (2017)](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website (easily extendable list).
+- [Ask Create Share (2017)](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create web submissions (Stack Exchange, Forums and more).
 
 ## Personal
 
-- [Dotfiles (2016) 🌟](https://github.com/nikitavoloboev/dotfiles#readme) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix, Hammerspoon.
-- [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os#readme) - List of applications and tools that make my macOS experience even more amazing.
-- [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios#readme) - List of applications and tools that make my iOS experience even more amazing.
-- [AMA (2017) 🌟](https://github.com/nikitavoloboev/ama#readme) - Ask me anything.
-- [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz#readme) - My personal home on the internet.
-- [Knowledge (2017) 🌟](https://github.com/nikitavoloboev/knowledge#readme) - Everything I know.
-- [Vegan Recipes (2018)](https://github.com/nikitavoloboev/vegan-recipes#readme) - Vegan recipes I like.
-- [CV (2018)](https://github.com/nikitavoloboev/cv#readme) - My CV.
+- [Code (2020)](https://github.com/nikitavoloboev/code) - Snippets of code.
+- [Learning (2019)](https://github.com/nikitavoloboev/learning) - Learn by building.
+- [CV (2018)](https://github.com/nikitavoloboev/cv) - My CV.
+- [Knowledge (2017)](https://github.com/nikitavoloboev/knowledge) - Everything I know.
+- [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz) - My personal home on the internet.
+- [AMA (2017)](https://github.com/nikitavoloboev/ama) - Ask me anything.
+- [My iOS (2016)](https://github.com/nikitavoloboev/my-ios) - List of applications and tools that make my iOS experience even more amazing.
+- [My macOS (2016)](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing.
+- [Dotfiles (2016)](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix.
 
 ## Go Libraries
 
-- [Markdown Parser (2017)](https://github.com/nikitavoloboev/markdown-parser#readme) - Go library to parse markdown to grab various things.
+- [Go (2020)](https://github.com/nikitavoloboev/go) - Small Go packages & CLIs.
+- [Markdown Parser (2017)](https://github.com/nikitavoloboev/markdown-parser) - Go library to parse markdown to grab various things.
 
 ## CLI
 
-- [License Up (2017)](https://github.com/nikitavoloboev/license-up#readme) - Create a license quickly.
-- [Alias search (2017) 💡](https://github.com/nikitavoloboev/alias-search#readme) - Find your aliases and shell functions.
+- [GitUpdate (2020)](https://github.com/nikitavoloboev/gitupdate) - Commit and push updated files with file names as commit message.
+- [License Up (2017)](https://github.com/nikitavoloboev/license-up) - Create a license quickly.
 
 ## Curated
 
-- [Privacy Respecting (2017) 🌟](https://github.com/nikitavoloboev/privacy-respecting#readme) - Curated List of Privacy Respecting Services and Software.
-- [Find work (2018) 🌟](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
+- [Find work (2018)](https://github.com/nikitavoloboev/find-work) - Curated list of websites and resources to find work programming.
+- [Privacy Respecting (2017)](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software.
 
-## Themes
+## Other
 
-- [Monokai Night Vim (2018)](https://github.com/nikitavoloboev/vim-monokai-night#readme)
-
-## Web
-
-- [Crafting Ideas (2017) 💡](https://github.com/nikitavoloboev/crafting-ideas#readme) - Platform to share and grow your ideas.
-- [Boxes (2017) 💡](https://github.com/nikitavoloboev/boxes#readme) - Your life as little boxes.
-
-## Practice
-
-- [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode#readme) - Solutions to LeetCode in Go/Python.
-- [Euler (2017)](https://github.com/nikitavoloboev/euler#readme) - Solutions to Project Euler in Go/Python.
+- [GitHub Stars (2019)](https://github.com/nikitavoloboev/github-stars) - Curated list of my GitHub stars.

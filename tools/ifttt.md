@@ -1,7 +1,9 @@
 # [IFTTT](https://ifttt.com)
 
-I use a few IFTTT triggers, mostly for automating my public activity and centralizing it in [Day One](../macOS/apps/day-one.md) so I can query it later.
+I use a few IFTTT triggers:
 
-Here are the applets I use:
+![](https://i.imgur.com/cKbXFeU.png)
 
-![](https://i.imgur.com/NZcJXYP.png)
+## Links
+
+- [Goodbye IFTTT (2020)](https://benjamincongdon.me/blog/2020/10/30/Goodbye-IFTTT/) ([HN](https://news.ycombinator.com/item?id=24943685))

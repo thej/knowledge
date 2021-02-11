@@ -5,7 +5,6 @@ Here is a list of various things I track for my own use and reference.
 ## Books
 
 - [Books (Wiki)](../books/books.md) - Books I read and finished reading together with a link to the notes I made on each of the books and my reviews.
-- [Books (Trello)](https://trello.com/b/MOrnm2aN) - Books I am reading now and planning to read.
 - [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev) - List of [books I finished reading](https://www.goodreads.com/review/list/15768482?shelf=read) and reviews on all of the books I read.
 
 ## Movies
@@ -15,8 +14,7 @@ Here is a list of various things I track for my own use and reference.
 ## TV series
 
 - [Series (Wiki)](../tv-series/tv-series.md) - TV series I saw already with my thoughts and a small reviews on each one.
-- [Series (Trello)](https://trello.com/b/iUtT6wmu) - TV series I am planning to watch.
-- [Trakt](https://trakt.tv/users/nikitavoloboev) - [TV series I saw](https://trakt.tv/users/nikitavoloboev/history) and [ratings I made](https://trakt.tv/users/nikitavoloboev/ratings) for different episodes/seasons.
+- [Trakt](https://trakt.tv/users/nikitavoloboev) - [TV series I saw](https://trakt.tv/users/nikitavoloboev/history), [plan to watch](https://trakt.tv/users/nikitavoloboev/watchlist?sort=rank,asc) and [ratings I made](https://trakt.tv/users/nikitavoloboev/ratings) for different episodes/seasons.
 
 ## Music
 
@@ -27,14 +25,12 @@ Here is a list of various things I track for my own use and reference.
 
 ## Code
 
-- [WakaTime](https://wakatime.com/@nikivi) - Ratio of different programming languages I used this week together with the editors I used.
 - [CodePen collections](https://codepen.io/nikitavoloboev/collections/popular/)
 
 ## Games
 
 - [Games (Wiki)](../games/games.md) - Games I played and my thoughts on them together with my favorite games of all time.
-- [Games (Trello)](https://trello.com/b/EekGabpj) - Games I am playing now and want to play.
-- [Grouevee](https://www.grouvee.com/user/nikivi/) - [Games I played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) and [games I want to play](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25).
+- [Grouevee](https://www.grouvee.com/user/nikivi/) - [Games I played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25), [games I want to play](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25) & my [favorite games](https://www.grouvee.com/user/nikivi/shelves/53363-favorite/?num=25).
 
 ## Videos
 
@@ -43,3 +39,14 @@ Here is a list of various things I track for my own use and reference.
 ## Design
 
 - [Dribble buckets](https://dribbble.com/nikitavoloboev/buckets) - Various buckets of designs I liked. There is also a [big list of designs I liked](https://dribbble.com/nikitavoloboev/likes).
+
+## Links
+
+- [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self)
+- [Apis Mellifera (2019)](https://byrgen.autophagy.io/apis-mellifera/)
+- [Personal Trackers](https://cblgh.org/articles/personal-trackers.html)
+- [My Quantified Self Setup (2020)](https://julian.digital/2020/02/23/my-quantified-self-setup/)
+- [Developer industry stats and where to find them](https://github.com/sw-yx/tracking)
+- [Personal Data Warehouses: Reclaiming Your Data (2020)](https://simonwillison.net/2020/Nov/14/personal-data-warehouses/) ([HN](https://news.ycombinator.com/item?id=25090218))
+- [Heedy](https://github.com/heedy/heedy) - Open-source database built for storage and analysis of your personal data. ([Docs](https://heedy.org/))
+- [Wakapi](https://wakapi.dev/) - Minimalist, self-hosted WakaTime-compatible backend for coding statistics. ([Code](https://github.com/muety/wakapi))

@@ -20,7 +20,9 @@ Started focusing on mindfulness and minimalism and using only things that bring 
 - (7) Removed lessons learned from wiki. Only have [rules](../../focusing/rules.md) and [processes](../../focusing/processes.md) now. Each of the files is binded to a key so I can open in a second. Should iterate on all of it with time and find what works the best for me.
 - (7) Still wonder what it's like to work at a company or even a startup. Being a one person team for all my life aside from Learn Anything project and Angelo is quite tiring and brings you down with time. I think being surrounded by a team of people who inspire and empower you is amazing. Maybe one day I can find myself to be in that team.
 - (7) 10,000 ⭐ on [Learn Anything](https://github.com/learn-anything/learn-anything). 🎊
-  ![](https://pbs.twimg.com/media/DXt-sVyWAAI0FIo.jpg:large)
+
+![](https://pbs.twimg.com/media/DXt-sVyWAAI0FIo.jpg:large)
+
 - (7) Going to use and abuse IFTTT a bit more and rally various online info I create like Tweets I made into Google spreadsheets. I want to make some meaningful analysis on this data later + it's nice to save for posterity as I can save it as PDF for later viewing.
 - (8) Will review all movies I watch from now on.
 - (10) New format to monthly reviews. There are now `Weekly reviews` as well as `Shipped` category to track things I actually make and publish. Articles, code, projects. `Changes` then is more as a way of tracking _other_ things. Changes to workflow and whatnot. And `Thoughts` still stay as I find it quite a useful outlet for things. The ending 'credits' will include music I tracked on [Last.fm](https://www.last.fm/user/playfullyExist) & my tweets for that month. Would love to add some more things in time, my own new project I am working on will help in that regard quite a bit. Cleaned up my [books](../../books/books.md) entry and it's clean list of books I read and started with my reviews attached. Will also be adding books I read in this month here though. Trying to optimize my [processes](../../focusing/processes.md) to account for all these things and simplify and 'automate' my life in this way. There is a lot of merit in keeping things simple but actually doing this kind of looking back thing. It keeps me accountable and motivates me to **do more**. I hope to refine my process with time and ship things perhaps not daily but at least weekly. Something new. Something I made.
@@ -35,20 +37,6 @@ Started focusing on mindfulness and minimalism and using only things that bring 
 - (28) I should also try real focused meditation practice. Yoga can be quite good for that. I'm also thinking of only using Day One for real personal memories. And keeping most other things here or on the web.
 - (28) Only now starting to appreciate the tools I have around me. And use each one with a purpose. My [ideas](https://trello.com/b/alB1ryRP) board is also filled with tools and stuff I need to build to further move me to an ever more perfect setup. I want to build a public service to better visualize user's tweets. Twitter does an appalling job at that. Something like [this](https://brandur.org/twitter) but anyone can plug in their name and get a similar looking visualization. This way I may drop off writing most of these `Notes` and just tweet instead. As that seems more natural. Will see. I still love having these `Notes` in a chronological order displayed here. It will be a fun read in 3 or even 5 or so years in the future. Things are changing so fast nowadays.
 - (28) For now I am focusing on beating my biggest bad habit. Getting distracted. I am channeling my focus for 90 min at a time. With small breaks in-between and I do feel I am getting better and better at separating news & fun from focused work.
-
-## Photos
-
-![](https://scontent-ams3-1.cdninstagram.com/vp/2b1f8a119d2bbdf25bd3419ac43b4a44/5BD40E2F/t51.2885-15/e35/28428181_175665736388402_1209533580204572672_n.jpg?efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV9pZyJ9)
-
-> [(2)](https://www.instagram.com/p/Bf0_7fIjhds/)
-
-![](https://scontent-ams3-1.cdninstagram.com/vp/0a6652613ef41a45c763815abb5f5a2f/5B3D053E/t51.2885-15/e35/28753104_368914760244266_5769848224948944896_n.jpg)
-
-> [(5)](https://www.instagram.com/p/Bf8ybHTDhfh/)
-
-![](https://scontent-ams3-1.cdninstagram.com/vp/ad6b4e71783887ab28e9fa6c4e8c78d8/5B54DF8A/t51.2885-15/e35/28753564_349101512251241_5494211294204526592_n.jpg)
-
-> [(12) Going on adventure 🐕](https://www.instagram.com/p/BgO5dAxHUJz/)
 
 ## Music
 

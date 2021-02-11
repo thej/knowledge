@@ -6,16 +6,16 @@ I have an intricate system where I put files according to their purpose and cont
 
 My Desktop is nearly always empty. It acts as a kind of `temp` folder where every file that is put there needs to be acted upon and either moved to some other place in my system or deleted.
 
-I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/clean-folders#readme) to completely trash everything inside `~/Desktop` with one hotkey. I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true) to quickly scan the contents of `~/Desktop` from Alfred.
+I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/clean-folders) to completely trash everything inside `~/Desktop` with one hotkey. I also use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true) to quickly scan the contents of `~/Desktop` from Alfred.
 
 ## ~/Documents
 
-All my actual documents (books, papers..) are put there. The folder synced with iCloud and I often access it from my phone with Files app.
+All my actual documents (books, papers..) are put there. The folder synced with iCloud and I often access it from my phone via Spotlight search.
 
 ```Bash
 ~/Documents
 ❯ exa
-Actual AudioBooks Books PDFs Research papers
+Books  Design  Learn  PDFs  Personal  Pixave  Research  Videos  Zoom
 ```
 
 ## ~/Downloads
@@ -31,84 +31,74 @@ Everything that is code is put into this folder.
 ```Bash
 ~/src
 ❯ exa
-alfred  bots  clones  curated  games  ideas  languages  learn  libs  ml  nix  orgs  other  personal  practice  scripts  test  vim-plugins  vscode-extensions  web  Xcode
-
+learning  cli  clones  curated  extensions  games  ios  lib  macos  orgs  personal  web
 ```
 
 ## ~/src/clones
 
-I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I [use km macro](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/src/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime Text.
+I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I use [km macro](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/src/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime Text.
 
 I then filter contents of the folder with [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
 
-
 ## ~/src/orgs
 
-Inside this folder I keep all code from orgs I am working on.
+Inside this folder I keep all code from orgs I am working or worked on.
 
 ```Bash
 ~/src/orgs
 ❯ exa
-learn-anything deedmob
+2do  learn-anything
 ```
 
-## ~/src/test
+## ~/src/learning
 
-Inside this folder I have a bunch of language specific folders that usually just have one file inside them with the extension of that language. Here is how that folder looks for me:
+The folder is OSS on [GitHub](https://github.com/nikitavoloboev/learning). Inside this folder I have a bunch of language/framework specific folders. I use it to test out new tools/ideas.
+
+## ~/src/extensions
+
+Contains different extensions to various apps in form of workflows/plugins.
 
 ```Bash
-~/src/test
+~/src/extensions
 ❯ exa
-bash-test  c-test  clojure-test  go-test  haskell-test  js-test  lisp-test  python-test  react-test  ruby-test  ts-test
+alfred  safari  vim  vscode
 ```
 
-I then have KM macros to quickly open these files:
-
-![](https://i.imgur.com/s2RJt5y.png)
-
-And I use [VS Code CodeRunner](https://github.com/formulahendry/vscode-code-runner) extension to quickly run code in those specific files. Makes prototyping ideas and libraries a breeze.
-
-## ~/src/Xcode
-
-Contains all my Swift iOS and macOS projects.
-
-## ~/src/learn
-
-I use the folder to learn new technologies, languages and things. Perhaps I am completing some course or going through some book that has exercises. I put it there.
-
-```Bash
-~/src/learn
-❯ exa
-algo-learn  go-learn  graphics-learn  kuber-learn  ml-learn  react-learn  stats-learn  ts-intro  ts-learn  tsc-react-learn
-```
-
-## ~/src/alfred
+## ~/src/extensions/alfred
 
 All my Alfred workflows are placed there. And each one is symlinked with [workflow-install](https://gist.github.com/deanishe/35faae3e7f89f629a94e).
 
 ```Bash
-~/src/alfred
+~/src/extensions/alfred
 ❯ exa
-alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anything  alfred-my-mind  alfred-npm  alfred-trello  alfred-web-searches  small-workflows
+alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anything  alfred-my-mind  alfred-npm  alfred-pocket  alfred-timer  alfred-trello  alfred-web-searches  small-workflows
 ```
 
 ## ~/src/curated
 
-Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists#readme) there where all edits to the `README.md` files is automatically committed with [Hazel](../macOS/apps/hazel.md).
+Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists) there where all edits to the `README.md` files is automatically committed with [Hazel](../macOS/apps/hazel.md).
 
 ```bash
 ~/src/curated
 ❯ exa
-alfred-workflows  cheat-sheets        courses        find-work           games   ios-apps    movies       privacy-respecting     quotes        research-papers    slack-groups    talks      websites
-blogs             chrome-extensions   curated-lists  firefox-extensions  humans  macos-apps  newsletters  programming-languages  reddit        safari-extensions  spectrum        telegram   youtube
-books             command-line-tools  documentaries  forums              images  mindmaps    podcasts     quora                  reddit-multi  series             stack-exchange  tv-series
+alfred-workflows  cheat-sheets        courses        events              forums        humans      movies       privacy-respecting     quotes           safari-extensions  stack-exchange  tv-series
+blogs             chrome-extensions   curated-lists  find-work           games         ios-apps    newsletters  programming-languages  reddit           slack-groups       talks           websites
+books             command-line-tools  documentaries  firefox-extensions  github-stars  macos-apps  podcasts     quora                  research-papers  spectrum           telegram        youtube
 ```
 
 ## ~/Dropbox
 
-Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in Dropbox so I can edit it on the phone from Ulysses.
+Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in Dropbox so I can edit it on the phone with [Ulysses](https://ulysses.app).
 
 ```bash
+~/Dropbox
 ❯ exa
-Alfred  Apps  Config  History  IFTTT  Pixave  Shared  Shares  TaskPaper  upload.sh  Write
+Alfred  Apps  Config  IFTTT  Public  Shared  Temp  upload.sh  Write
 ```
+
+## Links
+
+- [Ask HN: How do you organise your hard drive? (2018)](https://news.ycombinator.com/item?id=18836472)
+- [Ask HN: How do you keep your files organized on macOS? (2019)](https://news.ycombinator.com/item?id=19327264)
+- [How do you organize your \$HOME directory? (2019)](https://lobste.rs/s/zpw6py/how_do_you_organize_your_home_directory)
+- [Ask HN: How do you organise your files and folders? (2020)](https://news.ycombinator.com/item?id=23404900)

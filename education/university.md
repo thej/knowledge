@@ -78,6 +78,17 @@ Starting a blog is super easy now. If you don't like Medium, you can [create you
 
 This applies more to life than university. But it really is the most powerful advice I can give to anyone. Just try new things. Don't be afraid. Start things. Solve your own problems.
 
-I personally fell in love with open source software and specifically optimizing everything in my life. macOS/iOS/life/time/productivity/.. Many of the projects I try to work on I do out of passion for solving my own itches I feel in life. I loved tinkering with macOS so much that I decided to [share my setup](https://github.com/nikitavoloboev/my-mac-os#readme) with the world. Little did I know then that is something that many people actually appreciate and liked. It felt great knowing that and finding it out for myself. If I didn't share it, this would literally simply not happen. If I didn't write my own 'Hello World' article on Medium, my blog wouldn't happen. If I didn't decide to start a wiki, [my wiki](../README.md) of now over 400 files would simply not happen.
+I personally fell in love with open source software and specifically optimizing everything in my life. macOS/iOS/life/time/productivity/.. Many of the projects I try to work on I do out of passion for solving my own itches I feel in life. I loved tinkering with macOS so much that I decided to [share my setup](https://github.com/nikitavoloboev/my-mac-os) with the world. Little did I know then that is something that many people actually appreciate and liked. It felt great knowing that and finding it out for myself. If I didn't share it, this would literally simply not happen. If I didn't write my own 'Hello World' article on Medium, my blog wouldn't happen. If I didn't decide to start a wiki, [my wiki](../README.md) of now over 400 files would simply not happen.
 
 There are many more things that simply would not happen if I didn't try new things. Fear is the worst reason to not do a thing.
+
+## Links
+
+- [Should you go to university? (2019)](https://jwmza.com/thoughts/should-you-go-to-university/)
+- [CODE](https://code.berlin/en/) - Newly founded private university of applied sciences that is embedded into the vibrant network of Berlin’s digital economy.
+- [List of all universities in the world in CSV](https://github.com/endSly/world-universities-csv)
+- [HN: A twenty-year professor on starting college this fall: Don’t (2020)](https://news.ycombinator.com/item?id=22916869)
+- [Do I Need to Go to University? (2020)](http://colah.github.io/posts/2020-05-University/) ([HN](https://news.ycombinator.com/item?id=23376523))
+- [Summary on the current state of universities (2020)](https://twitter.com/eriktorenberg/status/1294485125703413761)
+- [Back to School? Marc Andreessen says get clear-eyed on what your education will give you (2020)](https://www.youtube.com/watch?v=_s1xyZM-2Gw)
+- [MIT](https://web.mit.edu/)

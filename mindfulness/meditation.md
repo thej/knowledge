@@ -10,14 +10,22 @@ I like to practice mindfulness through journaling my thoughts in my diary. I wro
 
 I do want to start more focused mindfulness and trying to practice _channeling_ my focus. I do build my personal system of productivity and happiness around this idea of _less thinking, more happiness_. I try to cultivate good thoughts and let bad thoughts pass by. I focus on the present moment and try to take the best from the cards I have been dealt. And more importantly I try to be _proactive_ with life. Great things won't happen if you sit idly waiting for things to happen. You either have to go out and find these great things or make your own.
 
-I use [Oak](https://itunes.apple.com/us/app/oak-meditation-breathing/id1210209691?mt=8) iOS app whenever I find myself getting distracted and not doing the task I need to do. I open the app and go through a few breathing exercises to bring my mind back into place.
-
 ## Notes
 
 - I don't know any meditator or teacher worth their weight in salt who advocates stopping thinking. Not only is it practically impossible, it implies a deeply maladaptive relationship to thought, i.e., that thought itself is undesirable. Rather, we need to transform our relationship to thoughts; not identify with them but dispassionately observe them as self-arising objects of perception, rather than facts of existence that define who and what we are. Not only that, but question their origins and the underlying beliefs that motivate them. Mindfulness is a very different thing from "stop thinking." "Stop thinking" implies an act of violence to the self, rather than gentle self-compassion.
 - [There are no secrets. There are no shortcuts. You literally just practice for years and years and years and years.](https://www.reddit.com/r/Buddhism/comments/6v5dg5/how_do_i_enter_all_the_four_jhanas/dlxpy6w/)
 - If the mind is concentrated, we do not hear sounds, we do not see anything all our senses are in abeyance. External sounds, external vision, all external sense perceptions, therefore, can be overcome by concentration; and intensity of concentration leads to meditation.
+- [Don’t judge your thoughts, don’t associate yourself with them, don’t let them create your identity.](https://www.reddit.com/r/Meditation/comments/a0ruoj/i_just_had_an_epiphany/) What skills you have, you physical appearance, just about anything, is your current reality and you don’t have to repeat it to yourself to know it. ‘I am good’ or ‘I am bad’ is not reality, it’s just your imagination of yourself that is subjective and interchangeable in a split second. Just drop those thoughts. Let them pass through you until they lose momentum. Don’t attach yourself to them. Just be.
+- [Enjoy life without suffering. Because suffering comes from our thoughts only.](https://www.reddit.com/r/Meditation/comments/a0ruoj/i_just_had_an_epiphany/)
+- [Suffering is caused by attachment; desiring things to stay as they are, despite the inevitability of change, or desiring things be other than they are, despite the inevitability of things simply being as they are. Suffering comes from us desiring something other than reality. In this sense, it is optional.](https://www.reddit.com/r/Meditation/comments/a0ruoj/i_just_had_an_epiphany/) I am here referring to the Buddhist conception of suffering, dukkha, and its cessation through non-attachment (different from detachment, which is dissociation/escapism). The more colloquial definition of suffering may be something like extended experiences of pain but is not really what most mean when discussing suffering with respect to meditation.
 
 ## Links
 
 - [Breathing techniques](https://www.reddit.com/r/Psychonaut/comments/6y21cf/does_anyone_know_any_effective_breathing/)
+- [What do you think of meditation? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/eo9nt2/what_do_you_think_of_meditation/)
+- [Sanctuary](https://www.meetsanctuary.com/) - Bookable private space to bend, breathe, or just be.
+- [Balance](https://www.balanceapp.com/) - Personalized meditation audio program.
+- [Meditation - The Art of Doing Nothing](https://threader.app/thread/1261481222359801856)
+- [Breathe](https://github.com/filipeisho/breathe/) - Distraction-free peripheral breath trainer, it helps you breathe correctly so you can stay calm and focus on what matters. ([HN](https://news.ycombinator.com/item?id=24008678))
+- [Wim Hof's teachings about breath work and the health benefits of cold plunges (2020)](https://www.outsideonline.com/2417379/wim-hof-method) ([HN](https://news.ycombinator.com/item?id=24772352))
+- [The physiological effects of slow breathing in the healthy human (2017)](https://breathe.ersjournals.com/content/13/4/298) ([HN](https://news.ycombinator.com/item?id=24857356))
